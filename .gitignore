@@ -3,13 +3,12 @@ __pycache__/
 *.pyo
 venv/
 .venv/
-myenv/
 env/
 .env
 .env.*
 *.log
 .DS_Store
-Thumbs.db
 .idea/
 .vscode/
 firebase/sec.json
+firebase/*.json
