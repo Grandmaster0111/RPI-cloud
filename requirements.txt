@@ -1,0 +1,5 @@
+RPi.GPIO
+Adafruit_DHT
+Adafruit-GPIO
+Adafruit-MCP3008
+firebase-admin
